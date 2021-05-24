@@ -3,5 +3,6 @@ public class Pres {
         System.out.println("Priv");
         System.out.println("Priv22");
         System.out.println("Priv22");
+        System.out.println("Priv32");
     }
 }
